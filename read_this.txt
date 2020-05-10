@@ -1,3 +1,5 @@
 Saludos, este es un archivo de texto.
 
 Estoy agregando un poco apra comparar el archivo local con el de la nube...
+
+Mirando como trabaja Fetch
