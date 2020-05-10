@@ -2,6 +2,6 @@ Saludos, este es un archivo de texto.
 
 Estoy agregando un poco apra comparar el archivo local con el de la nube...
 
-Mirando como trabaja Fetch + 111111
+1111111111111111111111111111111
 
 Esto es otro texto como si lo hubiera agregado una persona diferente (trabajando con branches)
